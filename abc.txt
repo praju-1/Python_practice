@@ -15,3 +15,11 @@ git fork - copy paste
 git clone - copy paste
 git branch
 git status
+
+setup 
+email id 
+username 
+vs code help 
+
+git config --email "your email"
+git config --username "your username"

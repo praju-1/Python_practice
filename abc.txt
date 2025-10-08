@@ -1,0 +1,17 @@
+1. github account
+2. github vs code connect
+3. git scm install
+4. github pull request extension
+
+commands 
+git init - initilization 
+git branch -M - branch/ change
+git commit - save 
+git push - upload
+git pull - download
+git add - add
+git add remote origin
+git fork - copy paste
+git clone - copy paste
+git branch
+git status

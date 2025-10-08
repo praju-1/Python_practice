@@ -1,0 +1,153 @@
+statements , operators, variables, constant, comments, functions, keywords, classes, object, data types 
+
+a = "Python" - string 
+b = 20 - int
+c = 34.5 - float
+
+a = "John"
+firstName = "John"
+
+variables Rules  :
+1. name should start with alphabets - a  to z and A to Z
+2. you can not use digit (0-9) at the start of the variable 
+3. variable names should not be keywords
+4. you can not use any symbols except _
+5. variable/python names are case sensitive
+
+for if else break continue 
+
+operators : mathematical calculation
+1. Arithmatics + - / // % *
+2. relational/ comparision - > < >= <= == != true false
+3. logical - and or not
+4. Assignment - += -= /= *= 
+5. bitwise >> <<
+6. identity - is is not
+7. membership - in not in
+
+Truth table/logical table - and or not - comparision operators - True and false
+
+
+DATA TYPES - types of your data 
+DYNAMICALLY TYPED LANGUAGES : PYTHON JAVASCRIPT
+STATICALLY TYPED LANGUAGES : C c++
+
+int - 10
+float - 12.3
+string - "sdsd" "234" ''
+boolean - true false
+complex - 2+3j
+list - []
+tuple -()
+set - {}
+dictionary -{}
+
+
+
+statements : 
+1. conditional statements - break continue - 
+if - if you have a single condition and you want output for only true condition
+if else -  if you have a single condition and you want output for only true condition/false
+elif - if you want to implement multiple condition
+else
+
+switch statements
+
+
+
+2. looping statements - break continue pass
+for
+while 
+
+1. functions with parameter
+2. functions without parameter
+3. functions with return statements
+4. functions with default parameter
+
+
+1. functions for even and odd number
+2. positive and negative
+3. list 
+
+what is functions
+reuseablity 
+def 
+
+
+iterator
+file handling  :
+modes /flags 
+open('abc.txt", 'r') - if file available then open in read mode else you will get error
+open('abc.txt", 'w')-if file available then open in write mode else it will create new file
+open('abc.txt", 'a')-if file available then open in append mode else it will create new file
+open('abc.txt", 'x')-if file available then you will get an error else create new file
+
+
+function
+open() - file open
+read() - read
+close() - close
+write() - write
+
+predefined library 
+install - import 
+pip - preferred installer program 
+
+
+numpy pandas matplolib 
+
+pip install numpy
+
+
+a = 10
+b = 30
+
+Exceptional handling
+try except
+try except finally
+
+module 
+random
+
+
+
+oops : object oriented programing LANGUAGES
+
+security
+scalability
+reuseablity
+
+1 class and object
+
+what are the 4 pillars oops
+1. inheritance - parent class - child class
+2. polymorphism - same function/method name but different meaning
+3. encapsulation - data bind = security
+4. abstraction - to hide unnecessary data
+- data abstraction
+- process abstraction
+abstract class - methods/function/class 
+abstract object 
+
+
+
+inheritance
+1. single inheritance
+2. multiple inheritance
+3. multilevel inheritance
+4. heirarchical inheritance
+5. hybrid inheritance
+
+threading in python -process - thread
+process - execution task
+
+single theraded 
+multiple
+
+kernal threead
+user thread
+
+
+regular expression : 
+pattern
+flags - searching
